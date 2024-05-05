@@ -117,7 +117,7 @@
     .header .navbar-toggle {
         border: none;
         padding: 0;
-        margin: 34px 0;
+        margin: 27px 0;
     }
     .header .stricky-fixed .navbar-toggle {
         margin: 26px 0;
@@ -134,7 +134,7 @@
         padding-right: 0;
     }
     .header .header-navigation .navbar-header {
-        padding-right: 100px;
+        padding-right: 30px;
     }
     .header .header-navigation .navbar-collapse {
         background-color: transparent;
@@ -429,8 +429,16 @@
     .rev_slider .banner-title {
         font-size: 35px;
         line-height: 40px;
+        margin: 5px;
+        margin-right: 15px !important;
+        margin-left: 15px !important;
+        margin-bottom: 20px !important;
     }
     .rev_slider .banner-caption-p {
+        margin-top: 20px !important;
+        margin-right: 15px !important;
+        margin-left: 15px !important;
+
         font-size: 17px;
     }
     .call-to-action .single-phone-info+.single-phone-info {
@@ -500,7 +508,7 @@
     }
 }
 
-@media(max-width: 480px) {
+@media(max-width: 370px) {
     .tp-caption {
         display: none !important;
     }
@@ -591,7 +599,7 @@
     .header .navbar-brand {
         -webkit-background-size: 100% 100%;
         background-size: 100% 100%;
-        padding: 24px 61px 24px 15px;
+        padding: 2px 15px 2px 15px;
     }
     .service-single-details .service-single-content .service-feature-box .img-box {
         margin-bottom: 30px;
@@ -609,8 +617,8 @@
         margin-top: 15px;
     }
     .header .navbar-brand {
-        padding: 28px 61px 28px 15px;
-        width: 88%;
+        padding: 2px 6px 2px 6px;
+        width: 66%;
     }
     .header .header-navigation.stricky-fixed .navbar-brand {
         padding-top: 19px;

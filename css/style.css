@@ -237,7 +237,7 @@ a:active {
 
 .header .navbar-brand {
     height: auto;
-    padding: 23px 156px 23px 30px;
+    padding: 2px 12px 2px 12px;
     background: transparent url(../img/logo-shape.png) left top no-repeat;
 }
 
@@ -361,7 +361,7 @@ a:active {
 
 .header .header-navigation ul.navigation-box>li {
     position: relative;
-    padding: 32.5px 0;
+    padding: 26.5px 0;
 }
 
 .header .header-navigation ul.navigation-box>li+li {
@@ -998,9 +998,12 @@ a:active {
 ***************************/
 
 .welcome-section {
-    background: #ec9a5d;
+    /* background: #ec9a5d; */
+    background: #000 url(../img/video-bg.jpg) center center;
     padding-top: 65px;
     padding-bottom: 82px;
+
+    
 }
 
 .welcome-section .welcome-text .tag-line {
