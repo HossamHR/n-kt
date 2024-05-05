@@ -1008,7 +1008,8 @@ a:active {
 
 .welcome-section .welcome-text .tag-line {
     font-family: 'Poppins';
-    color: #A13D36;
+    color: #e6a647;
+    /* color: #A13D36; */
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0;
