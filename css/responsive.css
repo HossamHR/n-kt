@@ -493,7 +493,7 @@
     .header-topbar-home-three .pull-left,
     .header-topbar-home-three .pull-right {
         width: 100%;
-        text-align: center;
+        text-align: center; 
     }
     .header-topbar-home-three .pull-left {
         margin-bottom: 15px;
